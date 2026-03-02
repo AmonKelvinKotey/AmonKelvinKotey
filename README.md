@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Amon Kelvin Kotey 👋
+### BSc. Computer Science Student @ GCTU | AI Model Trainer & Aspiring Cyber Security Analyst
 
-<!--
-**AmonKelvinKotey/AmonKelvinKotey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently focusing on **AI Model Evaluation**, **Linguistic Accuracy (Ga/English)**, and **AI Safety**.
+- 🌱 I’m currently learning **Python**, **Markdown**, and **LaTeX** to bridge the gap between CS and AI training.
+- 🛡️ I am deeply interested in **Cyber Security**, specifically how AI can be used to identify and mitigate digital threats.
+- ⚡ Fun fact: I am a native **Ga** speaker from Accra,Ghana!
 
-Here are some ideas to get you started:
+## 🛠 Skills I'm Building
+- **Languages:** Python (In Progress), Ga (Native), English (Fluent)
+- **Tools:** GitHub, VS Code, Linux (Developer Mode), Markdown
+- **CS Fundamentals:** Discrete Math (MATH 103), Linear Algebra (MATH 105)
+- **Security Interests:** Network Security, Ethical Hacking, and AI Red-Teaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 2026 Goals
+- [ ] Complete the **GitHub Student Developer Pack** verification .
+- [ ] Pass the **STEM/Coding Qualifiers** on Mindrift & DataAnnotation.
+- [ ] Begin a fundamental certification in **Cyber Security** .
