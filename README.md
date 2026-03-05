@@ -13,6 +13,6 @@
 - **Security Interests:** Network Security, Ethical Hacking, and AI Red-Teaming
 
 ## 🎯 2026 Goals
-- [ ] Complete the **GitHub Student Developer Pack** verification .
+- [x] Complete the **GitHub Student Developer Pack** verification .
 - [ ] Pass the **STEM/Coding Qualifiers** on Mindrift & DataAnnotation.
 - [ ] Begin a fundamental certification in **Cyber Security** .
