@@ -1,18 +1,15 @@
-# Hi there, I'm Amon Kelvin Kotey 👋
-### BSc. Computer Science Student @ GCTU | AI Model Trainer & Aspiring Cyber Security Analyst
+# Hi, I'm Kelvin Kotey 👋
 
-- 🔭 I’m currently focusing on **AI Model Evaluation**, **Linguistic Accuracy (Ga/English)**, and **AI Safety**.
-- 🌱 I’m currently learning **Python**, **Markdown**, and **LaTeX** to bridge the gap between CS and AI training.
-- 🛡️ I am deeply interested in **Cyber Security**, specifically how AI can be used to identify and mitigate digital threats.
-- ⚡ Fun fact: I am a native **Ga** speaker from Accra,Ghana!
+Undergraduate Computer Science student at Ghana Communication Technology University (GCTU) focusing on C++ systems development, Linux environments, cybersecurity, and robotics.
 
-## 🛠 Skills I'm Building
-- **Languages:** Python (In Progress), Ga (Native), English (Fluent)
-- **Tools:** GitHub, VS Code, Linux (Developer Mode), Markdown
-- **CS Fundamentals:** Discrete Math (MATH 103), Linear Algebra (MATH 105)
-- **Security Interests:** Network Security, Ethical Hacking, and AI Red-Teaming
+### 🛠️ Technical Stack
+- **Languages:** C++, Bash, Python
+- **Tools:** Git, GitHub, Linux (Debian/Crostini), VS Code
+- **Core Competencies:** Procedural Programming, Custom Data Structures (`struct`), Sorting Algorithms (Bubble Sort), Input Sanitization
 
-## 🎯 2026 Goals
-- [x] Complete the **GitHub Student Developer Pack** verification .
-- [ ] Pass the **STEM/Coding Qualifiers** on Mindrift & DataAnnotation.
-- [ ] Begin a fundamental certification in **Cyber Security** .
+### 📌 Featured Repositories
+- [GCTU Smart Dustbin System](https://github.com/AmonKelvinKotey/gctu-smart-dustbin-system): C++ terminal application using struct arrays and Bubble Sort to manage campus sanitation nodes.
+- [GCTU Student GPA Calculator](https://github.com/AmonKelvinKotey/gctu-gpa-calculator): C++ CLI utility for calculating academic GPAs based on GCTU grading distributions.
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/kelvinkoteyamon](https://www.linkedin.com/in/kelvinkoteyamon)
